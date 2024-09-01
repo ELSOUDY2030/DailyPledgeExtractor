@@ -79,6 +79,10 @@ This output represents the extracted and cleaned numerical data, which is then s
 
 Contributions to improve the project are welcome. Please feel free to submit a Pull Request.
 
-## License
+## Acknowledgments
 
-[MIT License](LICENSE)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) for providing the OCR capabilities.
+
+## Contact
+
+For any questions or inquiries, please contact Mohammad Nomer at mohammadnomer2030@gmail.com.

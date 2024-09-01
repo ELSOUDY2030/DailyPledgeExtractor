@@ -65,7 +65,7 @@ The script processes all PNG and JPEG images in the specified folder and outputs
 
 Here is an example of an image processed by the script:
 
-![Example Image](1000654409.png)
+![Example Image](image/1000654409.png)
 
 The script splits this image into smaller tiles, performs OCR to extract numerical data, cleans the extracted text, and finally compiles the results into a CSV file. The output for this example image is:
 
